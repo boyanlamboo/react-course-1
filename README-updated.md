@@ -21,10 +21,10 @@ Terminal (mac)
 
 How to install:
 
-Download this repository
+* Download this repository [here](https://github.com/boyanlamboo/react-course-1/archive/master.zip)
 
 ```
-* Down this repository [here](https://github.com/boyanlamboo/react-course-1/archive/master.zip)
+Optionally you can also just clone this repository!
 ```
 
 That's it, you can now deploy the project.
